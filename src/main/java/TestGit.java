@@ -4,4 +4,5 @@
  */
 public class TestGit {
     String sno = "我是master分支";
+    String agin = "再来一次";
 }
