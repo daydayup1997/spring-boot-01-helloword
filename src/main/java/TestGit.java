@@ -7,4 +7,6 @@ public class TestGit {
     String agin = "再来一次";
 
     String haha = "这是master第四行的代码";
+    String info = "这是hotfix分支";
+
 }
