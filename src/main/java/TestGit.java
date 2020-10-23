@@ -4,6 +4,6 @@
  */
 public class TestGit {
     String info = "这是hotfix分支";
-    String sno = "我是master分支";
-    String haha = "这是master第三行的代码";
+
+    String haha = "这是hotfix第三行的代码";
 }
